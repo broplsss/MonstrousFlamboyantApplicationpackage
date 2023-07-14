@@ -1,0 +1,165 @@
+{
+    "success": true,
+    "result": {
+        "game": {
+            "gameMd5": "8af1c42767324aa185c7aa88125f1c5c",
+            "title": "Catch The Thief 3D",
+            "status": 2,
+            "description": "Guard your territory. Don't let thieves take away your wealth.",
+            "category": "Arcade",
+            "tags": [
+                {
+                    "id": 2814,
+                    "title": "thief"
+                },
+                {
+                    "id": 2832,
+                    "title": "timing"
+                },
+                {
+                    "id": 4111,
+                    "title": "catch"
+                },
+                {
+                    "id": 5305,
+                    "title": "#puzzle"
+                },
+                {
+                    "id": 5595,
+                    "title": "#kids"
+                },
+                {
+                    "id": 5596,
+                    "title": "#kid"
+                }
+            ],
+            "assets": [
+                {
+                    "id": 57693,
+                    "name": "8af1c42767324aa185c7aa88125f1c5c-512x384.jpeg",
+                    "width": 512,
+                    "height": 384
+                }
+            ],
+            "slug": "catch-the-thief-3d",
+            "enableAds": true,
+            "preRoll": true,
+            "rewardedAds": false,
+            "type": 0,
+            "externalUrl": null,
+            "timeAds": 2,
+            "androidBundleId": null,
+            "iosBundleId": null,
+            "ctry": "VN",
+            "company": "bestgames.com",
+            "dmain": true,
+            "crtv": "0.1.7",
+            "dname": "bestgames.com",
+            "dmn": "localhost:5000",
+            "loader": {
+                "enabled": true,
+                "sdk_version": "1.15.2"
+            },
+            "splash": {
+                "template": "pluto",
+                "package_version": "1.3.6",
+                "package": "gd-sdk-air-dynamic"
+            },
+            "promo": {
+                "puzzle": {
+                    "enabled": false
+                },
+                "rainbow": {
+                    "enabled": true
+                }
+            },
+            "dads": {
+                "enabled": true,
+                "left": {
+                    "enabled": false,
+                    "script": {
+                        "src": "https://pm.gamedistribution.com/@bygd/gd-tag-js/0.5.2/dist/default/iife/index.js",
+                        "data-slot-id": "pluto-splash-slot-left",
+                        "data-flow": "hl"
+                    }
+                }
+            },
+            "pads": [
+                {
+                    "weight": 2,
+                    "t4r": {
+                        "enabled": true,
+                        "min": 4321,
+                        "max": 5432
+                    },
+                    "dp": {
+                        "enabled": true
+                    }
+                },
+                {
+                    "weight": 2,
+                    "vmap": {
+                        "enabled": false
+                    },
+                    "retry_on_failure": false,
+                    "dp": {
+                        "enabled": true
+                    }
+                }
+            ],
+            "mads": [
+                {
+                    "weight": 2,
+                    "vmap": {
+                        "enabled": false
+                    },
+                    "retry_on_failure": false,
+                    "t4r": {
+                        "enabled": true,
+                        "min": 4321,
+                        "max": 5432
+                    },
+                    "dp": {
+                        "enabled": true
+                    }
+                },
+                {
+                    "weight": 2,
+                    "vmap": {
+                        "enabled": false
+                    },
+                    "dp": {
+                        "enabled": true
+                    },
+                    "retry_on_failure": false
+                }
+            ],
+            "rads": [
+                {
+                    "weight": 2,
+                    "vmap": {
+                        "enabled": false
+                    },
+                    "t4r": {
+                        "enabled": true,
+                        "min": 4321,
+                        "max": 5432
+                    },
+                    "dp": {
+                        "enabled": true
+                    }
+                },
+                {
+                    "weight": 2,
+                    "vmap": {
+                        "enabled": false
+                    },
+                    "dp": {
+                        "enabled": true
+                    }
+                }
+            ],
+            "ctry_vst": 40098
+        }
+    }
+}
